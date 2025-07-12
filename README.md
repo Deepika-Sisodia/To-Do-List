@@ -40,11 +40,6 @@ project-folder/
 - CSS
 - jQuery
 
----
-
-## 📸 Preview
-
-
 
 ---
 
